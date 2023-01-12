@@ -1,6 +1,6 @@
 # 💫 About Me: I am Shiva Bhattacharjee
 
-🔭 Currently working on <a href="https://github.com/ShivaBhattacharjee/AnimeTrix">AnimeTrix</a><br>⚡ I like to code and watch anime
+🔭 Currently working as a fullstack developer<br>⚡ I like to code and watch anime
 
 
 ## 🌐 Socials:
