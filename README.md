@@ -1,5 +1,6 @@
-# Hi there I'm Shiva <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<b>This is the place where I create stuff and break things</b>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there I'm Shiva <a href="https://immashiva.vercel.app/"></a>
+### <b>This is the place where I create stuff and break things</b>
+<br/>
 
 ###
 
