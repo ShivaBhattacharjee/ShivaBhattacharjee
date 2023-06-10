@@ -6,11 +6,11 @@
 ###
 
 
-- 🔭 I’m currently working on [AnimeTrix](https://github.com/ShivaBhattacharjee/AnimeTrix)
+
 
 - 🌱 I’m currently learning **Data structure and algorithms and Java**
 
-- 👯 I’m looking to collaborate on [Animetrix](https://github.com/ShivaBhattacharjee/AnimeTrix)
+
 
 - 👨‍💻 All of my projects are available at [https://immashiva.vercel.app/](https://immashiva.vercel.app/)
 ## My Arsenal
