@@ -12,7 +12,8 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://immashiva.vercel.app/](https://immashiva.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://immashiva.vercel.app/](https://immashiva.vercel.app/){:target="_blank"}
+
 ## My Arsenal
 ## Languages and frameworks
 
