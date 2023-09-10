@@ -53,7 +53,7 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivabhattacharjee&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=ShivaBhattacharjee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true)
 
 ###
