@@ -1,6 +1,6 @@
+# ![hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  Hi there I'm Shiva
 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there I'm Shiva <a href="https://immashiva.vercel.app/"></a>
 ### <h5><b>This is the place where I create and break stuffs</b></h3>
 
 ###
