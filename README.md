@@ -5,13 +5,6 @@
 
 ###
 
-
-
-
-- 🌱 I’m currently learning **Data structure and algorithms and Java**
-
-
-
 - 👨‍💻 All of my projects are available at [https://www.theshiva.xyz/](https://www.theshiva.xyz/)
 
 ## My Arsenal
