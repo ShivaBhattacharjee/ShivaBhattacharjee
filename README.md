@@ -1,7 +1,7 @@
 ## About Me:
 Hello there! I'm Shiva Bhattacharjee, a Full Stack Developer experienced in the MERN stack. Currently, I'm pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that provide value. I'm currently expanding my skills in native app development using React Native and exploring Generative AI. Additionally, I'm an active participant in hackathons and have won a few of them. I was also a finalist in the Smart India Hackathon 2023. If you're a hackathon organizer looking for a teammate or just want to have a chat with me, feel free to connect with me.
 
-All of my projects are available on my portfolio website: [theshiva.xyz](https://theshiva.xyz/projects).
+All of my projects are available on my portfolio website: [theshiva.xyz/projects](https://theshiva.xyz/projects).
 
 
 ## Languages and Tools
