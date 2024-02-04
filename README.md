@@ -30,4 +30,4 @@ All of my projects are available on my portfolio website: [theshiva.xyz](https:/
 <img src="https://profile-counter.glitch.me/shivabhattacharjee/count.svg" alt="Shiva's :: Visitor's Count" />
 
 ## Lets Connect
-I'm excited to connect with others via [Email](itsshivahere@outlook.com) and [Twitter](https://twitter.com/sh17va) to chat about projects and ideas I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
+I'm excited to connect with others via [Email](mailto:itsshivahere@outlook.com) and [Twitter](https://twitter.com/sh17va) to chat about projects and ideas I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
